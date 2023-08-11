@@ -18,11 +18,11 @@ Tenzies is a simple dice game implemented in a React app. The objective of the g
 
     ### Rolling Dice :
 
-    <img src="./img/02.png" alt="Rolling Dice" width="800">
+  <img src="./img/02.png" alt="Rolling Dice" width="800">
 
     ### Winning the Game :
 
-    <img src="./img/03.png" alt="Winning the Game" width="800">
+ <img src="./img/03.png" alt="Winning the Game" width="800">
 
 ## Installation
 
@@ -31,7 +31,7 @@ To run the Tenzies game on your local machine, follow these steps:
 1. Clone this repository to your local machine using:
  
 ```bash
-git clone
+git clone https://github.com/MehraDevesh2022/tenzies-game.git
 ```
  
 2. Install the dependencies in the local node_modules folder using:
